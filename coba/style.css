@@ -5,11 +5,10 @@ padding: 0;
 }
  
 body{
-    background: #c0c0c0;
 }
  
 div.konten{
-    background: #ffffff;
+    background: #FFF;
     width: 350px;
     margin: 222px auto 0;
     border-radius: 16px;
@@ -18,12 +17,12 @@ div.konten{
 }
  
 div.kepala{
-    background: #f85252;
+    background: #00BFFF;
     padding: 10px 22px;
     height: 60px;
 }
  
-div.kepala h2.judul{
+div.kepala h1.judul{
     color: #fff;
     font-weight: normal;
     line-height: 40px;
@@ -44,7 +43,7 @@ div.lock{
  
 div.artikel{
     padding:10px 22px 0;
-    color: #808080;
+    color: #000000;
 }
  
 div.artikel div.grup{
@@ -72,10 +71,10 @@ div.artikel div.grup input[type="password"]{
 }
  
 div.artikel div.grup input[type="submit"]{
-    background: #33cd77;
+    background: #1E90FF;
     padding: 4px 16px;
     margin: 0 auto;
-    border: 1px solid #33cd77;
+    border: 1px solid #1E90FF;
     border-radius: 2px;
     color: #fff;
     cursor: pointer;
